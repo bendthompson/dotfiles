@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ben97thompson@gmail.com
+	name = ben thompson
